@@ -1,0 +1,23 @@
+{
+  "name": "lad-wrangler",
+  "version": "1.0.0",
+  "description": "Good Vibrations Discord Admin Bot",
+  "main": "lad-wrangler.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PepeSilvia215/lad-wrangler.git"
+  },
+  "author": "PepeSilvia215",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PepeSilvia215/lad-wrangler/issues"
+  },
+  "homepage": "https://github.com/PepeSilvia215/lad-wrangler#readme"
+}
